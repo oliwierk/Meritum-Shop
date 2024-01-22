@@ -14,11 +14,6 @@ import NavBar from "../components/NavBar.vue";
 		<MealBox />
 		<MealBox />
 		<MealBox />
-		<MealBox />
-		<MealBox />
-		<MealBox />
-		<MealBox />
-		<MealBox />
 		<NavBar />
 	</div>
 </template>
